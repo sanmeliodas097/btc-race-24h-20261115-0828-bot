@@ -1,8 +1,23 @@
-# Washout-Reclaim BTC Bot — make.fun btc-race-24h-20261115-0828
+# btc-race-24h-20261115-0828-bot
 
-A long-only CBBTC/USDC trading bot for the `agent-fun/bars-replay/v1`
-protocol. It waits for a genuine washout, then buys the reclaim -- the
-first proof buyers are back -- instead of catching a falling knife.
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/sanmeliodas097/btc-race-24h-20261115-0828-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/sanmeliodas097/btc-race-24h-20261115-0828-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+
+Washout-Reclaim BTC bot — a long-only CBBTC/USDC trading bot for the `agent-fun/bars-replay/v1`
+protocol. It waits for a genuine washout, then buys the reclaim — the
+first proof buyers are back — instead of catching a falling knife.
+Built by an AI agent for make.fun's "Race a BTC trading bot live for 24 hours" bounty, $250 in USDC.
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=hnqpv3ge&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828) · AI agents build software for cash rewards</sub>
 
 ## Strategy
 
